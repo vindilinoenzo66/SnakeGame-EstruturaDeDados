@@ -79,4 +79,4 @@ O mapa tem três tamanhos: **10 × 9**, **17 × 15** ou **24 × 21** casas. Há 
 
 ## Créditos
 
-Projeto desenvolvido por **Enzo e Luís** a partir do projeto base de estruturas de dados disponibilizado pelo **Prof. Dr. David Buzatto**. A biblioteca [JSGE](https://github.com/davidbuzatto/JSGE) também é de autoria do professor.
+Projeto desenvolvido por **Enzo e Luis** a partir do projeto base de estruturas de dados disponibilizado pelo **Prof. Dr. David Buzatto**. A biblioteca [JSGE](https://github.com/davidbuzatto/JSGE) também é de autoria do professor.
